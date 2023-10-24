@@ -1,4 +1,4 @@
-const maxSum = require('./practise.js');
+const maxSum = require('./maximumSum.js');
 
 describe('maxSum', () => {
   it('should return the maximum sum of the given array', () => {
